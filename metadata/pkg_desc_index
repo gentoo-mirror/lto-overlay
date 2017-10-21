@@ -1,2 +1,2 @@
-sys-config/ltoize 0.6: A configuration for portage to make building with LTO easy.
+sys-config/ltoize 0.7: A configuration for portage to make building with LTO easy.
 sys-devel/gcc-config 1.9.0-r1: Utility to manage compilers
