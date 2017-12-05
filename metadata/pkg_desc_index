@@ -1,3 +1,3 @@
 media-libs/x264 0.0.20170701-r1: A free library for encoding X264/AVC streams
 sys-config/ltoize 0.7: A configuration for portage to make building with LTO easy.
-sys-devel/gcc-config 1.9.0-r1: Utility to manage compilers
+sys-devel/gcc-config 1.9.0-r2: Utility to manage compilers
