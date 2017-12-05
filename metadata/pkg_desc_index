@@ -1,3 +1,4 @@
+dev-lang/python 2.7.14-r2 3.4.6-r2 3.5.4-r2 3.6.3-r2: An interpreted, interactive, object-oriented programming language
 media-libs/x264 0.0.20170701-r1: A free library for encoding X264/AVC streams
 sys-config/ltoize 0.7: A configuration for portage to make building with LTO easy.
 sys-devel/gcc-config 1.9.0-r2: Utility to manage compilers
