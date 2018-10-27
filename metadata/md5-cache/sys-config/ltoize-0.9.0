@@ -1,0 +1,12 @@
+DEFINED_PHASES=postinst preinst setup
+DEPEND=>=sys-devel/gcc-4.9.4:* >=sys-devel/binutils-2.28.1:* app-portage/portage-bashrc-mv[cflags] >=sys-devel/gcc-config-1.9.1
+DESCRIPTION=A configuration for portage to make building with LTO easy.
+EAPI=7
+HOMEPAGE=https://github.com/InBetweenNames/gentooLTO
+IUSE=override-flagomatic
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2+
+RDEPEND=>=sys-devel/gcc-4.9.4:* >=sys-devel/binutils-2.28.1:* app-portage/portage-bashrc-mv[cflags] >=sys-devel/gcc-config-1.9.1
+SLOT=0
+_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=c7f19bce688d5463264dc5c90b365627
