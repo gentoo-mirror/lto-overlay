@@ -1,4 +1,4 @@
 app-portage/lto-rebuild 0.9.7: Avoid a full system rebuild when using GentooLTO
-dev-lang/python 2.7.16-r102 3.4.8-r2 3.5.5-r2 3.6.8-r1 3.6.9-r1 3.7.3-r1 3.7.4-r2: An interpreted, interactive, object-oriented programming language
+dev-lang/python 2.7.16-r102 3.4.8-r2 3.5.5-r2 3.6.9-r1 3.7.4-r2: An interpreted, interactive, object-oriented programming language
 dev-python/notify-python 0.1.1-r4: Python bindings for libnotify
 sys-config/ltoize 0.9.2 0.9.3 0.9.3-r1 0.9.3-r2 0.9.4 0.9.4-r1: A configuration for portage to make building with LTO easy.
