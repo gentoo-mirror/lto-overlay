@@ -6,4 +6,4 @@ KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=GPL-2+
 RDEPEND=app-portage/portage-utils
 SLOT=0
-_md5_=012a08dc233f59e454ceac65ef10baf8
+_md5_=3207a6f1c2add60caf5dba052f8b15ad
