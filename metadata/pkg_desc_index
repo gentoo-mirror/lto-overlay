@@ -1,3 +1,3 @@
 app-portage/lto-rebuild 0.9.8-r1: Avoid a full system rebuild when using GentooLTO
 dev-lang/python 2.7.18-r100 3.4.8-r2 3.5.5-r2 3.6.12-r1 3.7.9-r1 3.8.7-r1 3.9.1-r1 3.10.0_alpha3-r1: An interpreted, interactive, object-oriented programming language
-sys-config/ltoize 0.9.7 0.9.8 0.9.9: A configuration for portage to make building with LTO easy
+sys-config/ltoize 0.9.7 0.9.8 0.9.9 0.9.10: A configuration for portage to make building with LTO easy
